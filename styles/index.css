@@ -5,31 +5,50 @@ html{
 body{
     text-align: center;
     font-family: Arial;
-    color: magenta;
+    color: white;
     margin: 0;
     padding: 0;
     font-size: 16px;
+    background-color: black;
 }
 #container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid red;
+    border: 3px solid white;
     margin: 100px auto;
+    
 }
 #container h1 {
     font-size: 20px;
+
 }
 #cabecera{
-    background: #33A;
+    background: rgb(31, 46, 180);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
 }
 #cabecera #tagline{
     font-weight: normal;
     font-size: 0.8em;
     margin: 1em;
+}
+.img-container{
+    background-image: url('/assets/rocket.png');
+    height: 70px;
+    width: 140px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.img-container img{
+
 }
