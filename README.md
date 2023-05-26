@@ -12,7 +12,9 @@ En este curso aprendí: 🧑‍💻
 - Sentirme comodo con la terminal de comandos
 
 - Todo esto fue elaborado por Emmanuelito
--Emmanuel es un ingeniero en sistemas computacionales
+- Emmanuel es un ingeniero en sistemas computacionales
+- Por el momento está buscando empleo, están de suerte
+
 
  #### Esta certificación de platzi tiene:
 ##### 6 horas de contenido teorico
