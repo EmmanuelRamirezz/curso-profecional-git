@@ -22,5 +22,5 @@ En este curso aprendí: 🧑‍💻
 
 ------------
 Mi nombre es Emmanuel Ramirez Rubio y estoy listo para el mundo laboral.  🤓
-Visita mi portafolio.[Haz click aquí!](http:/https://emmanuelramirez.netlify.app/ "Haz click aquí!")
+Visita mi portafolio.[Haz click aquí!](emmanuelramirez.netlify.app/ "Haz click aquí!")
 👨🏼‍💻
