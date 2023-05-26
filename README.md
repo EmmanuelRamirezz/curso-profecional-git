@@ -11,6 +11,8 @@ En este curso aprendí: 🧑‍💻
 - Como continuar un proyectos ya creados
 - Sentirme comodo con la terminal de comandos
 
+- Todo esto fue elaborado por Emmanuelito
+
  #### Esta certificación de platzi tiene:
 ##### 6 horas de contenido teorico
 ##### Más de 16 horas de practica
